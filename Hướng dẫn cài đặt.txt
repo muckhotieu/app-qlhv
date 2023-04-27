@@ -1,14 +1,14 @@
-1 Mở Terminal hoặc Command Prompt trên máy tính của bạn.
+1 Mở Terminal hoặc Command Prompt trên máy tính.
 
 2 Điều hướng đến thư mục nơi bạn muốn lưu trữ các tệp đã sao chép từ repository Git bằng lệnh cd.
 
 3 Sử dụng lệnh git clone để Lấy bản sao của repository main.
 git clone https://github.com/muckhotieu/app-qlhv.git
 
-4 Giải nén file demo demo_app-qlhv.zip để chạy thử app
+4 Giải nén file demo demo_app-qlhv.zip và chạy thử file .jar 
 
-5 Mở NetBean chọn Import Project -> from Zip và trỏ đường dẫn đến file Sourse_code_app-qlhv.zip để import dự án 
+5 Mở NetBean,Esclips chọn Import Project -> from Zip và trỏ đường dẫn đến file Sourse_code_app-qlhv.zip để import dự án 
 
 6 Mở bật xamp truy cập http://localhost/phpmyadmin/index.php hoặc mở navicate import file qlhv.sql
 
-
+7 cấu hình file config.txt sao cho trùng tên với tên db vừa tạo 
