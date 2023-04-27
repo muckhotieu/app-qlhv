@@ -9,3 +9,6 @@ git clone https://github.com/muckhotieu/app-qlhv.git
 
 5 Mở NetBean chọn Import Project -> from Zip và trỏ đường dẫn đến file Sourse_code_app-qlhv.zip để import dự án 
 
+6 Mở bật xamp truy cập http://localhost/phpmyadmin/index.php hoặc mở navicate import file qlhv.sql
+
+
